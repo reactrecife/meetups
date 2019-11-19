@@ -3,12 +3,12 @@
   <span><b>React Recife.</b></span><br/>
 </p>
   
-# React Recife Meetup 11/2019 na InLoco
+# React Recife Meetup 08/2019 na Liferay
 
-### Cypress by [Pedro Neto](https://www.linkedin.com/in/pedrojsn96/)
+### Normalizr Redux by [Jota Lins](https://github.com/joaopslins)
 
-Link da Talk - Coming Soon!
+[Link da Talk](https://github.com/vintasoftware/normalizr-redux-talk)
 
-### Web Components by [Luis Barroso](https://www.linkedin.com/in/luis-barroso-9a0508129/)
+### Componentes multi camadas by [Diego Nascimento](https://www.linkedin.com/in/dnvs97/)
 
-[Link da Talk](https://drive.google.com/open?id=1dEwhqA46tMPuVMWpd1U5Y82oEOP3yidP)
+[Link da Talk](https://drive.google.com/open?id=1KTlYc3Sznn9qsRQJODa90rdAcdkD8Fkp)
