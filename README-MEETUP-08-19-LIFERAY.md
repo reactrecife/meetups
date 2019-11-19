@@ -7,7 +7,7 @@
 
 ### Normalizr Redux by [Jota Lins](https://github.com/joaopslins)
 
-[Link da Talk](https://github.com/vintasoftware/normalizr-redux-talk)
+[Link da Talk](https://speakerdeck.com/joaopslins/normalizing-redux-pt)
 
 ### Componentes multi camadas by [Diego Nascimento](https://www.linkedin.com/in/dnvs97/)
 
