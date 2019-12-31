@@ -10,3 +10,4 @@
 ## Talks
 - [08/19 - Liferay](README-MEETUP-08-19-LIFERAY.md)
 - [11/19 - Inloco](README-MEETUP-11-19-INLOCO.md)
+- [12/19 - Thoughtworks](README-MEETUP-12-19-TW.md)

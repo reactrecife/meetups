@@ -9,7 +9,7 @@
 
 ### Cypress by [Pedro Neto](https://www.linkedin.com/in/pedrojsn96/)
 
-Link da Talk - Coming Soon!
+[Link da Talk](https://drive.google.com/open?id=1vtpocvWDaLp2wgKBxfQERrzeGtHZsuUi)
 
 ### Web Components by [Luis Barroso](https://www.linkedin.com/in/luis-barroso-9a0508129/)
 
