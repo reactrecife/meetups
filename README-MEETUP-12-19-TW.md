@@ -7,10 +7,10 @@
   
 # React Recife Meetup 12/2019 na Thoughtworks
 
-### CSS na era dos Componentes by [Thulio Philipe](https://www.linkedin.com/in/thulioph/)
+### CSS na era dos Componentes por [Thulio Philipe](https://www.linkedin.com/in/thulioph/)
 
 [Link da Talk](https://drive.google.com/open?id=1tItxTJ5lQmsnPesLGrzJcIm8wVeRyIPa)
 
-### A Bala de Prata do Cross-Platform: Flutter ou React Native? by [Samuel Matias](https://www.linkedin.com/in/samuelematias/)
+### A Bala de Prata do Cross-Platform: Flutter ou React Native? por [Samuel Matias](https://www.linkedin.com/in/samuelematias/)
 
 [Link da Talk](https://drive.google.com/open?id=1_C8eQWoOUDZrqINGHh8d-n8Or7Olfx9P)

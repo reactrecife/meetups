@@ -7,10 +7,10 @@
   
 # React Recife Meetup 08/2019 na Liferay
 
-### Normalizr Redux by [Jota Lins](https://github.com/joaopslins)
+### Normalizr Redux por [Jota Lins](https://www.linkedin.com/in/joaopslins/)
 
 [Link da Talk](https://speakerdeck.com/joaopslins/normalizing-redux-pt)
 
-### Componentes multi camadas by [Diego Nascimento](https://www.linkedin.com/in/dnvs97/)
+### Componentes multi camadas por [Diego Nascimento](https://www.linkedin.com/in/dnvs97/)
 
 [Link da Talk](https://drive.google.com/open?id=1KTlYc3Sznn9qsRQJODa90rdAcdkD8Fkp)
