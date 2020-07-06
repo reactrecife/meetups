@@ -11,6 +11,6 @@
 
 [Link da Talk - EM AGUARDO!]()
 
-### React Hooks e como adotar. por [Jota Lins](https://www.linkedin.com/in/joaopslins/)
+### React Hooks e como adotar por [Jota Lins](https://www.linkedin.com/in/joaopslins/)
 
 [Link da Talk - EM AGUARDO!]()
