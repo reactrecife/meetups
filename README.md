@@ -12,8 +12,8 @@
 - [08/19 - Liferay](README-MEETUP-08-19-LIFERAY.md)
 - [11/19 - Inloco](README-MEETUP-11-19-INLOCO.md)
 - [12/19 - Thoughtworks](README-MEETUP-12-19-TW.md)
-- [02/20 - Liferay](README-MEETUP-02-20-LIFERAY)
-- [05/20 - Online](README-MEETUP-05-20-ONLINE)
+- [02/20 - Liferay](README-MEETUP-02-20-LIFERAY.md)
+- [05/20 - Online](README-MEETUP-05-20-ONLINE.md)
 - [07/20 - Online](README-MEETUP-07-20-ONLINE.md)
 
 ## Fotos 📸
